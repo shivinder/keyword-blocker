@@ -1,4 +1,4 @@
-# keyword-blocker
+# keyword-masker
 
 ## Description
 
